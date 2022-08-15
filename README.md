@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fspd3-1.fna.fbcdn.net/v/t1.6435-9/120757240_1795894927228626_6131307774671472119_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=8EBn5-cu7ZQAX9iRhlv&_nc_ht=scontent.fspd3-1.fna&oh=00_AT9CIak3ZltATq_XqCUc7WJbb5JklIB3DWpIIbLWtZ35bA&oe=631F0E0F)
+
 
 <h1 align="center">Hi 👋, I'm Moniruzzaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -8,6 +8,10 @@
 <p align="center"><b>🔭 I’m currently working on Fiverr & Upwork</b> </p>
 <p align="center"><b>🌱 I’m currently learning Python </b> </p>
 <p align="center"><b>💬 Ask me about web Development</b> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themilon&show_icons=true&locale=en&layout=compact" alt="themilon" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +32,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themilon&show_icons=true&locale=en&layout=compact" alt="themilon" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themilon&show_icons=true&locale=en" alt="themilon" /></p>
 
