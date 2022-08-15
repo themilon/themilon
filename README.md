@@ -1,6 +1,8 @@
+![Web Developer](https://scontent.fspd3-1.fna.fbcdn.net/v/t1.6435-9/120757240_1795894927228626_6131307774671472119_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=8EBn5-cu7ZQAX9iRhlv&_nc_ht=scontent.fspd3-1.fna&oh=00_AT9CIak3ZltATq_XqCUc7WJbb5JklIB3DWpIIbLWtZ35bA&oe=631F0E0F)
+
 ### Hi there 👋, I'm Moniruzzaman
 #### Web Developer
-![Web Developer](https://scontent.fspd3-1.fna.fbcdn.net/v/t1.6435-9/120757240_1795894927228626_6131307774671472119_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=8EBn5-cu7ZQAX9iRhlv&_nc_ht=scontent.fspd3-1.fna&oh=00_AT9CIak3ZltATq_XqCUc7WJbb5JklIB3DWpIIbLWtZ35bA&oe=631F0E0F)
+
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years.
 
