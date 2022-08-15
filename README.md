@@ -23,3 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themilon&" alt="themilon" /></p>
 
 
+![Profile views](https://gpvc.arturio.dev/themilon)  
+
+
