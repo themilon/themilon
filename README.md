@@ -2,12 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Moniruzzaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years.</p>
-
-
-<p align="center"><b>🔭 I’m currently working on Fiverr & Upwork</b> </p>
-<p align="center"><b>🌱 I’m currently learning Python </b> </p>
-<p align="center"><b>💬 Ask me about web Development</b> </p>
+<h1 align="left"> Who am i </h1>
+<p align="center"><b>I’m a Front End Web developer . I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years.</b></p>
 
 
 
